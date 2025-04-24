@@ -1,5 +1,5 @@
 {
-	"name": "Ubuntu Development Environment",
+	"name": "Ubuntu 24.04 devcontainer",
 	"build": {
 		"dockerfile": "Dockerfile",
 		"args": {
