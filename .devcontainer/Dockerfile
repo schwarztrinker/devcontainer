@@ -19,6 +19,7 @@ RUN apt-get update && apt-get install -y \
     vim \
     sudo \
     software-properties-common \
+    zsh \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
